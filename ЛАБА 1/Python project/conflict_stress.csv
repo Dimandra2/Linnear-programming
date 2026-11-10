@@ -1,0 +1,5 @@
+week,weekly_demand,weekly_limit,cum_demand,cum_limit,cum_deficit,conflict
+1,62.4,50.88,62.4,50.88,11.52,True
+2,63.6,50.88,126.0,101.76,24.24,True
+3,57.6,50.88,183.6,152.64,30.96,True
+4,56.4,50.88,240.0,203.52,36.48,True

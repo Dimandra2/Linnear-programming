@@ -1,0 +1,4 @@
+scenario,status,objective
+base,optimal,1706.0
+deficit,optimal,1718.0
+stress,infeasible,

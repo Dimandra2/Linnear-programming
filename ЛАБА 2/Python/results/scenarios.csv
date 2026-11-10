@@ -1,0 +1,4 @@
+Scenario,Objective,Status
+Base,74.0,Optimal
+Arc Failure,80.0,Optimal
+Demand +16%,,Infeasible
